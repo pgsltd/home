@@ -1,0 +1,36 @@
+PLANNING GAIN SPECIALIST LTD — WEBSITE LAUNCH CHECKLIST
+
+1. Confirm the final domain. The current sitemap uses:
+   https://www.planninggainspecialist.co.uk
+
+2. Replace all illustrative stock images with licensed images or genuine project photographs before claiming they are completed company projects.
+
+3. Confirm company details:
+   Business: Planning Gain Specialist Ltd
+   Company number: 14273821
+   Address: Unit 19, 1-13 Adler Street, London, England, E1 1EG
+   WhatsApp: +44 7521 913296
+
+4. Add a professional company email address when available, for example:
+   info@planninggainspecialist.co.uk
+
+5. Review legal pages with a UK solicitor before launch, particularly project terms, consumer cancellation rights, privacy practices, insurance wording and subcontractor arrangements.
+
+6. If analytics, advertising pixels, embedded video, maps, live chat or tracking tools are added, update the Cookie Policy and implement compliant consent controls before activation.
+
+7. Test on:
+   Chrome, Edge, Firefox, Safari
+   Android and iPhone
+   Desktop, tablet and mobile screen sizes
+
+8. Test every WhatsApp button and the quotation form.
+
+9. Configure HTTPS and redirect HTTP to HTTPS.
+
+10. Configure the preferred domain version and redirect the alternative:
+    planninggainspecialist.co.uk -> www.planninggainspecialist.co.uk
+    or the reverse, but use one consistently.
+
+11. Submit sitemap.xml to Google Search Console and Bing Webmaster Tools after launch.
+
+12. Add local business details to Google Business Profile once the company confirms its customer-facing service area and eligibility.

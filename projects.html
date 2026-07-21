@@ -80,5 +80,5 @@
     const menu=document.getElementById('menu'),links=document.getElementById('links');menu.addEventListener('click',()=>{links.classList.toggle('open');menu.textContent=links.classList.contains('open')?'✕':'☰'});document.getElementById('year').textContent=new Date().getFullYear();
     const buttons=document.querySelectorAll('.filter'),projects=document.querySelectorAll('.project');buttons.forEach(button=>button.addEventListener('click',()=>{buttons.forEach(b=>b.classList.remove('active'));button.classList.add('active');const filter=button.dataset.filter;projects.forEach(project=>{project.style.display=(filter==='all'||project.dataset.category===filter)?'block':'none'})}));
   </script>
-</body>
+<script src="site-contact.js"></script></body>
 </html>
